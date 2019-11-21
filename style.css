@@ -1,0 +1,95 @@
+
+#dmoney {
+    height: 300px;
+    width: 300px;
+}
+
+.footer {
+    height: 60px;
+    width: 100;
+    background-color: #1b1717;
+    border-top: 20px solid #9a876d;
+    margin-top: 15%;
+    bottom: 0%;
+
+
+}
+
+p {
+    
+    font-family: 'Times New Roman', Times, serif;}
+
+.box {
+    border: solid white;
+    height: 500px;
+    width: 500px;
+    position: absolute;
+    left: 334px;
+    top: 83px;
+
+
+}
+
+#star {
+    height: 100px;
+    width: 100px;
+    margin-left: 15px;
+    margin-top: 4px;
+    border-bottom: 20px solid #9a876d ;
+
+}
+
+#red{
+    height: 100px;
+    width: 100px;
+    margin-right: 130px;
+    margin-top: 4px;
+    border-bottom: 20px solid #9a876d ;
+
+}
+
+#humble {
+    height: 100px;
+    width: 100px;
+    margin-left: -98px;
+    margin-top: 130px;
+    border-bottom: 20px solid #9a876d ;
+
+}
+
+#man {
+    height: 100px;
+    width: 100px;
+    margin-right: -100px;
+    margin-top: 133px;
+    border-bottom: 20px solid #9a876d ;
+
+}
+
+#load {
+    height: 100px;
+    width: 100px;
+    margin-left: -100px;
+    margin-top: 247px;
+    border-bottom: 20px solid #9a876d ;
+
+
+}
+
+h1 {
+    border-bottom: solid black;
+
+}
+
+h2 {
+    border-bottom: solid black;
+    width: 610px;
+
+
+}
+
+
+h3 {
+    border-bottom: solid black;
+    width: 380px;
+}
