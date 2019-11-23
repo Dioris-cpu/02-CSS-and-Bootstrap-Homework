@@ -1,4 +1,13 @@
 
+body {
+    background-image: url(../02-CSS-and-Bootstrap-Homework/assets/Images/wheat.png);
+}
+
+.row {
+    background-color: white;
+    margin-top: 80px;
+}
+
 #dmoney {
     height: 300px;
     width: 300px;
@@ -22,59 +31,103 @@ p {
 .box {
     border: solid white;
     height: 500px;
-    width: 500px;
-    position: absolute;
+    width: 384px;
+    /* position: absolute; */
     left: 334px;
     top: 83px;
+    margin: 24px auto;
+    background-color: white;
+    margin-left: 384px; }
 
-
-}
-
-#star {
+.space {
+    border: solid gray;
     height: 100px;
     width: 100px;
-    margin-left: 15px;
-    margin-top: 4px;
-    border-bottom: 20px solid #9a876d ;
-
+    position: relative;
+    background-image: url(../02-CSS-and-Bootstrap-Homework/assets/Images/hubble-space-photos-feat-1-620x350.jpg);
+    
 }
 
-#red{
+.dime {
+    position: absolute;
+    bottom: 0%;
+    border-bottom: 30px solid khaki;
+    width: 95px;
+    
+}
+
+.dragon {
+    border: solid gray;
     height: 100px;
     width: 100px;
-    margin-right: 130px;
-    margin-top: 4px;
-    border-bottom: 20px solid #9a876d ;
-
+    position: relative;
+    margin-left: 270px;
+    background-image: url(../02-CSS-and-Bootstrap-Homework/assets/Images/download-1.jpg);
 }
 
-#humble {
+.becker {
+    position: absolute;
+    bottom: 0%;
+    border-bottom: 30px solid khaki;
+    width: 95px;
+}
+
+.machaine {
+    border: solid gray;
     height: 100px;
     width: 100px;
-    margin-left: -98px;
-    margin-top: 130px;
-    border-bottom: 20px solid #9a876d ;
-
+    position: relative;
+    margin-top: 28px;
+    background-image: url(../02-CSS-and-Bootstrap-Homework/assets/Images/download.jpg);
 }
 
-#man {
+.al {
+    position: absolute;
+    bottom: 0%;
+    border-bottom: 30px solid khaki;
+    width: 95px;
+}
+
+.keene {
+    border: solid gray;
     height: 100px;
     width: 100px;
-    margin-right: -100px;
-    margin-top: 133px;
-    border-bottom: 20px solid #9a876d ;
-
+    position: relative;
+    margin-top: 28px;
+    background-image: url(../02-CSS-and-Bootstrap-Homework/assets/Images/the_red_sea.jpg);
 }
 
-#load {
+.faceless {
+    position: absolute;
+    bottom: 0%;
+    border-bottom: 30px solid khaki;
+    width: 95px;
+}
+
+.yngwie {
+    border: solid gray;
     height: 100px;
     width: 100px;
-    margin-left: -100px;
-    margin-top: 247px;
-    border-bottom: 20px solid #9a876d ;
+    position: relative;
+    margin-left: 270px;
+    margin-top: -228px;
+    background-image: url(../02-CSS-and-Bootstrap-Homework/assets/Images/iuWB2NM48R2r9q7QhyJfhe-320-80.jpg);
+}
 
+.blackstar {
+    position: absolute;
+    bottom: 0%;
+    border-bottom: 30px solid khaki;
+    width: 95px;
+}
+
+.middle {
+    background-color: white;
+    width: 560px;
+    margin-top: 80px;
 
 }
+
 
 h1 {
     border-bottom: solid black;
@@ -83,7 +136,7 @@ h1 {
 
 h2 {
     border-bottom: solid black;
-    width: 610px;
+    width: 524px;
 
 
 }
@@ -93,3 +146,7 @@ h3 {
     border-bottom: solid black;
     width: 380px;
 }
+
+
+
+
