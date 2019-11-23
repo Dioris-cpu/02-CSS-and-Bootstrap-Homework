@@ -4,7 +4,7 @@ body {
 }
 
 .row {
-    background-color: white;
+    background-color: #4d6c8c;
     margin-top: 80px;
 }
 
@@ -29,14 +29,14 @@ p {
     font-family: 'Times New Roman', Times, serif;}
 
 .box {
-    border: solid white;
+    border: solid #9a876d;
     height: 500px;
     width: 384px;
     /* position: absolute; */
     left: 334px;
     top: 83px;
     margin: 24px auto;
-    background-color: white;
+    background-color: #4d6c8c;
     margin-left: 384px; }
 
 .space {
@@ -51,7 +51,7 @@ p {
 .dime {
     position: absolute;
     bottom: 0%;
-    border-bottom: 30px solid khaki;
+    border-bottom: 30px solid #9a876d;
     width: 95px;
     
 }
@@ -68,7 +68,7 @@ p {
 .becker {
     position: absolute;
     bottom: 0%;
-    border-bottom: 30px solid khaki;
+    border-bottom: 30px solid #9a876d;
     width: 95px;
 }
 
@@ -84,7 +84,7 @@ p {
 .al {
     position: absolute;
     bottom: 0%;
-    border-bottom: 30px solid khaki;
+    border-bottom: 30px solid #9a876d;
     width: 95px;
 }
 
@@ -100,7 +100,7 @@ p {
 .faceless {
     position: absolute;
     bottom: 0%;
-    border-bottom: 30px solid khaki;
+    border-bottom: 30px solid #9a876d;
     width: 95px;
 }
 
@@ -117,12 +117,12 @@ p {
 .blackstar {
     position: absolute;
     bottom: 0%;
-    border-bottom: 30px solid khaki;
+    border-bottom: 30px solid #9a876d;
     width: 95px;
 }
 
 .middle {
-    background-color: white;
+    background-color: #4d6c8c;
     width: 560px;
     margin-top: 80px;
 
@@ -130,12 +130,12 @@ p {
 
 
 h1 {
-    border-bottom: solid black;
+    border-bottom: solid #9a876d;
 
 }
 
 h2 {
-    border-bottom: solid black;
+    border-bottom: solid #9a876d;
     width: 524px;
 
 
@@ -143,10 +143,38 @@ h2 {
 
 
 h3 {
-    border-bottom: solid black;
+    border-bottom: solid #9a876d;
     width: 380px;
 }
 
+.leggato {
+    position: absolute;
+    margin-top: 4px;
+    color:white;
+}
 
+.sweeping {
+    position: absolute;
+    margin-top: 4px;
+    color:white;
+}
+
+.alt {
+    position: absolute;
+    margin-top: 4px;
+    color:white;
+}
+
+.tapping {
+    position: absolute;
+    margin-top: 4px;
+    color:white;
+}
+
+.eco {
+    position: absolute;
+    margin-top: 4px;
+    color:white;
+}
 
 
